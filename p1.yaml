@@ -19,8 +19,6 @@ spec:
         protocol: "TCP"
       - port: "7001"
         protocol: "TCP"
-      - port: "9160"
-        protocol: "TCP"
       - port: "9142"
         protocol: "TCP"
       - port: "9042"
