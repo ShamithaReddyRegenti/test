@@ -21,7 +21,7 @@ spec:
     matchDirectories:
     - dir: /etc/mysql/
       recursive: true
-      ownerOnly: true
+      ownerOnly: false
     - dir: /var/lib/mysql/
       readOnly: true
       recursive: true
